@@ -1,4 +1,4 @@
-# Meroxa
+![Logo](https://github.com/meroxa/.github/profile/meroxa.svg)
 
 ### Build Data Apps with Workflows You Know and Love
 
