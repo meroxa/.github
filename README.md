@@ -1,4 +1,6 @@
-![Logo](https://github.com/meroxa/.github/profile/meroxa.svg)
+<p align="center" style="text-align:center;">
+  <img alt="turbine logo" src="profile/meroxa.svg" width="400" />
+</p>
 
 ### Build Data Apps with Workflows You Know and Love
 
