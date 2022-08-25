@@ -10,13 +10,13 @@ Meroxa is a code-first data application platform built for developers. Our goal 
 
 We believe that the best developer tools are built out in the open. We're committed to making real-time data much easier to work with for developers and will continue to open source tools along our journey.
 
-### Turbine
+### Turbine (Beta)
 
 Turbine is a data application framework for building data apps. If you're familiar with building web apps, using Turbine will feel familiar. It has all the facilities to test your code locally, build it and deploy it to Meroxa platform. It's currently available in three languages:
 
 * [JavaScript](https://github.com/meroxa/turbine-js)
 * [Go](https://github.com/meroxa/turbine-go)
-* [Python (Beta)](https://github.com/meroxa/turbine-py)
+* [Python](https://github.com/meroxa/turbine-py)
 
 ### Conduit
 
