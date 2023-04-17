@@ -17,6 +17,7 @@ Turbine is a data application framework for building data apps. If you're famili
 * [JavaScript](https://github.com/meroxa/turbine-js)
 * [Go](https://github.com/meroxa/turbine-go)
 * [Python](https://github.com/meroxa/turbine-py)
+* [Ruby](https://github.com/meroxa/turbine-rb)
 
 ### Conduit
 
